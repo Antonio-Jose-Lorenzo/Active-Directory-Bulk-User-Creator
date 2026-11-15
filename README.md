@@ -206,10 +206,13 @@ PS2EXE is needed for packaging, not for running the `.exe`. Packaging does not e
 
 **Antonio Jose Lorenzo**  
 [LinkedIn](https://www.linkedin.com/in/antoniojoselorenzo)
+
 [portfolio web](https://antoniojlorenzodev.vercel.app/)
+
 
 
 ## License
 
+This project is licensed under the [MIT License](LICENSE).
 
-
+Copyright (c) 2026 Antonio José Lorenzo.
